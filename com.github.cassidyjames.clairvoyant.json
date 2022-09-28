@@ -1,7 +1,7 @@
 {
     "app-id": "com.github.cassidyjames.clairvoyant",
     "runtime" : "org.gnome.Platform",
-    "runtime-version": "42",
+    "runtime-version": "43",
     "sdk": "org.gnome.Sdk",
     "command": "com.github.cassidyjames.clairvoyant",
     "finish-args": [
@@ -15,8 +15,8 @@
         "sources": [{
             "type": "git",
             "url": "https://github.com/cassidyjames/clairvoyant.git",
-            "tag": "3.0.1",
-            "commit": "f0e23648079d9ae8961b013d4b7f1b5094936775"
+            "tag": "3.0.2",
+            "commit": "36121e714dbd8f89cdef14f8211621d84e20cb8f"
         }]
     }]
 }
