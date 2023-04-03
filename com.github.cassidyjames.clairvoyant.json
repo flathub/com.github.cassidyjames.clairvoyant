@@ -16,6 +16,7 @@
         "sources": [{
             "type": "git",
             "url": "https://github.com/cassidyjames/clairvoyant.git",
+            "tag": "3.0.6",
             "commit": "e0d319f5e39711e625b0270cec60b7bf7470092e"
         }]
     }]
