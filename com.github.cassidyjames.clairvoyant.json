@@ -38,8 +38,8 @@
         {
           "type": "git",
           "url": "https://github.com/cassidyjames/clairvoyant.git",
-          "tag": "3.1.6",
-          "commit": "07fd1b412d7eb59e39df18faa56f0811daa7b8ab",
+          "tag": "3.1.7",
+          "commit": "e19ff440b5d3d5331a422b4ba830749d682c7d31",
           "x-checker-data": {
             "is-main-source": true,
             "type": "git",
