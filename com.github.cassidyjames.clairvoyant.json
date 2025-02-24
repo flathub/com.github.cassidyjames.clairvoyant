@@ -22,8 +22,8 @@
         {
           "type": "git",
           "url": "https://github.com/flatpak/libportal.git",
-          "tag": "0.8.1",
-          "commit": "26c15008cbe579f57f89468384f8efc033f25f6f",
+          "tag": "0.9.1",
+          "commit": "8f5dc8d192f6e31dafe69e35219e3b707bde71ce",
           "x-checker-data": {
             "type": "git",
             "tag-pattern": "^([\\d.]+)$"
@@ -38,8 +38,8 @@
         {
           "type": "git",
           "url": "https://github.com/cassidyjames/clairvoyant.git",
-          "tag": "3.1.8",
-          "commit": "5f2e2ecf0820ca3b4e854a376976eec8442617ef",
+          "tag": "3.1.9",
+          "commit": "55e9b3df8467123a9239da01124556ffe5d59d6e",
           "x-checker-data": {
             "is-main-source": true,
             "type": "git",
